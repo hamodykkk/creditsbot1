@@ -271,8 +271,8 @@ if (command == "emb")    {
   }  
 });
 
-client4.on('message', message => { 
-var prefix = "4"; 
+client5.on('message', message => { 
+var prefix = "5"; 
   if (message.author.bot) return; 
   if (!message.content.startsWith(prefix)) return; 
     var argresult = message.content.split(` `).slice(1).join(' '); 
