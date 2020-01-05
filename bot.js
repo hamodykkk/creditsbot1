@@ -67,7 +67,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm**`)
+        message.channel.send(`**bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr**`)
           .then(m => {
             count++;
           })
@@ -81,7 +81,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm**`)
+        message.channel.send(`**bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr**`)
           .then(m => {
             count++;
           })
@@ -89,13 +89,12 @@ if (message.content === '!spam') {
         }
       }
 });
-
 client5.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm**`)
+        message.channel.send(`**bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr**`)
           .then(m => {
             count++;
           })
@@ -103,7 +102,6 @@ if (message.content === '!spam') {
         }
       }
 });
-
 client3.on('message', message => {
     if(message.content === 'd'){
         message.channel.send('#daily')
@@ -123,7 +121,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm**`)
+        message.channel.send(`**bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr**`)
           .then(m => {
             count++;
           })
@@ -152,7 +150,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm Credits farm**`)
+        message.channel.send(`**bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr**`)
           .then(m => {
             count++;
           })
@@ -160,7 +158,6 @@ if (message.content === '!spam') {
         }
       }
 });
-
 
 
 client.on('message', message => { 
