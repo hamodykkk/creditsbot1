@@ -76,7 +76,6 @@ setInterval(function() {
 channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
 }, 1000)
 })
-})
 
 
 
