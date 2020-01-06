@@ -70,7 +70,6 @@ channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr b
 })
 
 })
-
 client2.on("ready", () => {
 let channel =     client.channels.get("663180766443864094")
 setInterval(function() {
