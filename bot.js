@@ -62,46 +62,31 @@ client5.on('message', message => {
 
 
 
-client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
-      let count = 0;
-      let ecount = 0;
-      for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr**`)
-          .then(m => {
-            count++;
-          })
-          
-        }
-      }
-});
+client.on("ready", () => {
+let channel =     client.channels.get("663180766443864094")
+setInterval(function() {
+channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
+}, 1000)
+})
 
-client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
-      let count = 0;
-      let ecount = 0;
-      for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr**`)
-          .then(m => {
-            count++;
-          })
-          
-        }
-      }
-});
-client5.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
-      let count = 0;
-      let ecount = 0;
-      for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr**`)
-          .then(m => {
-            count++;
-          })
-          
-        }
-      }
-});
+})
+
+client2.on("ready", () => {
+let channel =     client.channels.get("663180766443864094")
+setInterval(function() {
+channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
+}, 1000)
+})
+
+})
+client5.on("ready", () => {
+let channel =     client.channels.get("663180766443864094")
+setInterval(function() {
+channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
+}, 1000)
+})
+
+})
 client3.on('message', message => {
     if(message.content === 'd'){
         message.channel.send('#daily')
@@ -116,19 +101,14 @@ client3.on('message', message => {
 });
 
 
-client3.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
-      let count = 0;
-      let ecount = 0;
-      for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr**`)
-          .then(m => {
-            count++;
-          })
-          
-        }
-      }
-});
+client3.on("ready", () => {
+let channel =     client.channels.get("663180766443864094")
+setInterval(function() {
+channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
+}, 1000)
+})
+
+})
 
 
 client4.on('message', message => {
@@ -145,19 +125,14 @@ client4.on('message', message => {
 });
 
 
-client4.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
-      let count = 0;
-      let ecount = 0;
-      for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr**`)
-          .then(m => {
-            count++;
-          })
-          
-        }
-      }
-});
+client4.on("ready", () => {
+let channel =     client.channels.get("663180766443864094")
+setInterval(function() {
+channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
+}, 1000)
+})
+
+})
 
 
 client.on('message', message => { 
