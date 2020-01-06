@@ -69,7 +69,7 @@ channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr b
 }, 1000)
 })
 
-})
+
 client2.on("ready", () => {
 let channel =     client.channels.get("663180766443864094")
 setInterval(function() {
@@ -86,7 +86,7 @@ channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr b
 }, 1000)
 })
 
-})
+
 client3.on('message', message => {
     if(message.content === 'd'){
         message.channel.send('#daily')
@@ -108,7 +108,7 @@ channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr b
 }, 1000)
 })
 
-})
+
 
 
 client4.on('message', message => {
@@ -130,8 +130,6 @@ let channel =     client.channels.get("663180766443864094")
 setInterval(function() {
 channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
 }, 1000)
-})
-
 })
 
 
