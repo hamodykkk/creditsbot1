@@ -71,7 +71,7 @@ channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr b
 
 
 client2.on("ready", () => {
-let channel =     client.channels.get("663880417300185098")
+let channel =     client2.channels.get("663880417300185098")
 setInterval(function() {
 channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
 }, 1000)
@@ -80,7 +80,7 @@ channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr b
 
 
 client5.on("ready", () => {
-let channel =     client.channels.get("663880451219390498")
+let channel =     client5.channels.get("663880451219390498")
 setInterval(function() {
 channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
 }, 1000)
@@ -102,7 +102,7 @@ client3.on('message', message => {
 
 
 client3.on("ready", () => {
-let channel =     client.channels.get("663880433150328891")
+let channel =     client3.channels.get("663880433150328891")
 setInterval(function() {
 channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
 }, 1000)
@@ -126,7 +126,7 @@ client4.on('message', message => {
 
 
 client4.on("ready", () => {
-let channel =     client.channels.get("663880441731874816")
+let channel =     client4.channels.get("663880441731874816")
 setInterval(function() {
 channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
 }, 1000)
