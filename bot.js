@@ -76,8 +76,10 @@ setInterval(function() {
 channel.send(`bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr bttsawe t7mr`);
 }, 1000)
 })
-
 })
+
+
+
 client5.on("ready", () => {
 let channel =     client.channels.get("663180766443864094")
 setInterval(function() {
